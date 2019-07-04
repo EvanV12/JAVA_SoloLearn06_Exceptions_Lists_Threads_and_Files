@@ -19,7 +19,7 @@ public class MyClass {
 		
 		System.out.println(animals);
 		// Outputs: [cat, dog, snake, tiger]
-
+		// The elements have been sorted alphabetically
 	}
 
 }
